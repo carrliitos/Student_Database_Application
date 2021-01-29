@@ -1,3 +1,5 @@
+/* @author Benzon Carlitos Salazar */
+
 import java.util.Scanner;
 
 public class Student {
