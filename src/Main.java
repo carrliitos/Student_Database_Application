@@ -1,8 +1,6 @@
-package StudentDatabaseApp;
-
 import java.util.Scanner;
 
-public class StudentDatabaseApp {
+public class Main {
 
 	public static void main(String[] args) {		
 		// Ask how many the users we want to add
